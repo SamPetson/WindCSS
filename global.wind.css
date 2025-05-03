@@ -1291,7 +1291,6 @@ button:not(:disabled),
   .wind-md-flex {
     display: flex;
   }
-  /* Hundreds more responsive variants... */
 }
 
 @media (min-width: 992px) {
